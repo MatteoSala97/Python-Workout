@@ -6,10 +6,10 @@
 - [x] **EXERCISE 4** ■ Hexadecimal output
 - [x] **EXERCISE 5** ■ Pig Latin
 - [x] **EXERCISE 6** ■ Pig Latin sentence
-- [ ] **EXERCISE 7** ■ Ubbi Dubbi
-- [ ] **EXERCISE 8** ■ Sorting a string
-- [ ] **EXERCISE 9** ■ First-last
-- [ ] **EXERCISE 10** ■ Summing anything
+- [x] **EXERCISE 7** ■ Ubbi Dubbi
+- [x] **EXERCISE 8** ■ Sorting a string
+- [x] **EXERCISE 9** ■ First-last
+- [x] **EXERCISE 10** ■ Summing anything
 - [ ] **EXERCISE 11** ■ Alphabetizing names
 - [ ] **EXERCISE 12** ■ Word with most repeated letters
 - [ ] **EXERCISE 13** ■ Printing tuple records
