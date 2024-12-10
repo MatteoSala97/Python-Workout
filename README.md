@@ -4,8 +4,8 @@
 - [x] **EXERCISE 2** ■ Summing numbers
 - [x] **EXERCISE 3** ■ Run timing
 - [x] **EXERCISE 4** ■ Hexadecimal output
-- [ ] **EXERCISE 5** ■ Pig Latin
-- [ ] **EXERCISE 6** ■ Pig Latin sentence
+- [x] **EXERCISE 5** ■ Pig Latin
+- [x] **EXERCISE 6** ■ Pig Latin sentence
 - [ ] **EXERCISE 7** ■ Ubbi Dubbi
 - [ ] **EXERCISE 8** ■ Sorting a string
 - [ ] **EXERCISE 9** ■ First-last
