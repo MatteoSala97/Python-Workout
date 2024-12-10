@@ -7,3 +7,11 @@ pig_latin = [i + 'us' if i.lower() in vowels else i for i in stripped_input]
 
 result = ''.join(pig_latin)
 print(result)
+
+'''
+example: 
+
+    Let's speak in Pig Latin. Enter a word or a phrase: Ciao mi chiamo Matteo!
+    Ciusausous mius chiusausmous Maustteusous!
+    
+'''
