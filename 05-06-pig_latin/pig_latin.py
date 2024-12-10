@@ -5,6 +5,12 @@ vowels = ['a', 'e', 'i', 'o', 'u']
 #modo molto figo di fare un for loop rispetto al metodo classico
 pig_latin = [i + 'us' if i.lower() in vowels else i for i in stripped_input]
 
+# for i in stripped_input:
+#     if i.lower() in list:
+#         pig_latin.append(i + 'us')
+#     else:
+#         pig_latin.append(i)
+
 result = ''.join(pig_latin)
 print(result)
 
