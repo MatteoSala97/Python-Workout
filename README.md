@@ -10,7 +10,7 @@
 - [x] **EXERCISE 8** ■ Sorting a string
 - [x] **EXERCISE 9** ■ First-last
 - [x] **EXERCISE 10** ■ Summing anything
-- [ ] **EXERCISE 11** ■ Alphabetizing names
+- [x] **EXERCISE 11** ■ Alphabetizing names
 - [ ] **EXERCISE 12** ■ Word with most repeated letters
 - [ ] **EXERCISE 13** ■ Printing tuple records
 - [ ] **EXERCISE 14** ■ Restaurant

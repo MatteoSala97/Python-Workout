@@ -40,14 +40,14 @@ print(sum_numeric('1', 2, '3.5', '4', 'xyz', 5.0))  # Output: 12
 #----------------------------------------------------------------------
 
 def combine_dicts(dict_list):
-    result = {}
+    result = {} # inizializzo dizionario vuoto
     for dictionary in dict_list:
-        for key, value in dictionary.items():
+        for key, value in dictionary.items(): #tupla loop 
             if key in result:
-                if isinstance(result[key], list):
+                if isinstance(result[key], list): # controlla se la chiave è già in una lista
                     result[key].append(value)
                 else:
-                    result[key] = [result[key], value]
+                    result[key] = [result[key], value] # converte la chiave in una tupla
             else:
                 result[key] = value
     return result
