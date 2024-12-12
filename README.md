@@ -13,7 +13,7 @@
 - [x] **EXERCISE 11** ■ Alphabetizing names
 - [x] **EXERCISE 12** ■ Word with most repeated letters
 - [x] **EXERCISE 13** ■ Printing tuple records
-- [ ] **EXERCISE 14** ■ Restaurant
+- [x] **EXERCISE 14** ■ Restaurant
 - [ ] **EXERCISE 15** ■ Rainfall
 - [ ] **EXERCISE 16** ■ Dictdiff
 - [ ] **EXERCISE 17** ■ How many different numbers?
