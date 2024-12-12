@@ -11,8 +11,8 @@
 - [x] **EXERCISE 9** ■ First-last
 - [x] **EXERCISE 10** ■ Summing anything
 - [x] **EXERCISE 11** ■ Alphabetizing names
-- [ ] **EXERCISE 12** ■ Word with most repeated letters
-- [ ] **EXERCISE 13** ■ Printing tuple records
+- [x] **EXERCISE 12** ■ Word with most repeated letters
+- [x] **EXERCISE 13** ■ Printing tuple records
 - [ ] **EXERCISE 14** ■ Restaurant
 - [ ] **EXERCISE 15** ■ Rainfall
 - [ ] **EXERCISE 16** ■ Dictdiff
