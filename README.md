@@ -14,8 +14,8 @@
 - [x] **EXERCISE 12** ■ Word with most repeated letters
 - [x] **EXERCISE 13** ■ Printing tuple records
 - [x] **EXERCISE 14** ■ Restaurant
-- [ ] **EXERCISE 15** ■ Rainfall
-- [ ] **EXERCISE 16** ■ Dictdiff
+- [x] **EXERCISE 15** ■ Rainfall
+- [x] **EXERCISE 16** ■ Dictdiff
 - [ ] **EXERCISE 17** ■ How many different numbers?
 - [ ] **EXERCISE 18** ■ Final Line
 - [ ] **EXERCISE 19** ■ /etc/passwd to dict
