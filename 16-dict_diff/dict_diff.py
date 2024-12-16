@@ -8,10 +8,10 @@ def dictdiff(d1,d2):
     return diff
 
 d1 = {'a':1, 'b':2, 'c':3} 
-d2 = {'a':1, 'b':2, 'c':4} 
+d2 = {'a':2, 'b':2, 'c':4} 
 d3 = {'a':1, 'b':2, 'd':3} 
-d4 = {'a':1, 'b':2, 'c':4} 
-d5 = {'a':1, 'b':2, 'd':4} 
+d4 = {'a':1, 'b':4, 'c':9} 
+d5 = {'a':4, 'b':4, 'd':4} 
 
 print(dictdiff(d3, d4)) 
 print(dictdiff(d1, d5))
