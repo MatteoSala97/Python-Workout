@@ -5,9 +5,9 @@ while True:
     if not city:
         break
     try:
-        mm_rain = input('Input the amount of rain in mm: ')
+        mm_rain = int(input('Input the amount of rain in mm: '))
     except ValueError:
-        print("You stoopid or what?!")
+        print("You stoopid.")
         continue
         
     rain[city]= rain.get(city, 0) + int(mm_rain)
