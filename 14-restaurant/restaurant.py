@@ -15,14 +15,17 @@ while True:
     
     if order_list.lower() == 'menu':
         for item, price in menu.items():
-            print(f"{item}: {price} dallah bills")
+            print(f"{item}: {price} dallah bills.")
     elif order_list.lower() == 'confirm':
         break
     elif order_list.lower() not in [item.lower() for item in menu.keys()]:
         print(f"Sorry, we're out of {order_list}")
     else:
-        order.append(order_list)
+        order.append(order_list.title())
         print(f"{order_list} added to your order.")
 
+# Calcola il totale ciclando gli elementi appesi all'ordine
+total = sum(menu[item] for item in order)
+
 print("Your order has been confirmed:")
-print(f"{order} added to your order.")
+print(f"{order} added to your order. Total due is {total} dallah bills.")
