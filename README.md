@@ -16,9 +16,9 @@
 - [x] **EXERCISE 14** ■ Restaurant
 - [x] **EXERCISE 15** ■ Rainfall
 - [x] **EXERCISE 16** ■ Dictdiff
-- [ ] **EXERCISE 17** ■ How many different numbers?
-- [ ] **EXERCISE 18** ■ Final Line
-- [ ] **EXERCISE 19** ■ /etc/passwd to dict
+- [x] **EXERCISE 17** ■ How many different numbers?
+- [x] **EXERCISE 18** ■ Final Line
+- [x] **EXERCISE 19** ■ /etc/passwd to dict
 - [ ] **EXERCISE 20** ■ Word count
 - [ ] **EXERCISE 21** ■ Longest word per file
 - [ ] **EXERCISE 22** ■ Reading and writing CSV
