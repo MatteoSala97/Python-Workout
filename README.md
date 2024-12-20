@@ -19,9 +19,9 @@
 - [x] **EXERCISE 17** ■ How many different numbers?
 - [x] **EXERCISE 18** ■ Final Line
 - [x] **EXERCISE 19** ■ /etc/passwd to dict
-- [ ] **EXERCISE 20** ■ Word count
-- [ ] **EXERCISE 21** ■ Longest word per file
-- [ ] **EXERCISE 22** ■ Reading and writing CSV
+- [x] **EXERCISE 20** ■ Word count
+- [x] **EXERCISE 21** ■ Longest word per file
+- [x] **EXERCISE 22** ■ Reading and writing CSV
 - [ ] **EXERCISE 23** ■ JSON
 - [ ] **EXERCISE 24** ■ Reverse Lines
 - [ ] **EXERCISE 25** ■ XML generator
